@@ -28,6 +28,12 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  {
+  "name": "personal-website",
+  "homepage": "https://liza23.github.io/",
+  "version": "0.1.0",
+  /....
+}
    "eslintConfig": {
     "extends": [
       "react-app",
